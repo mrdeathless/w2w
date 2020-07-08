@@ -30,7 +30,7 @@
 * 2010, MixPanel, We’re moving. Goodbye Rackspace, https://code.mixpanel.com/2010/11/08/amazon-vs-rackspace/
 
 ## Programming Languages
-
+* 2020, Dropbox, Rewriting the heart of our sync engine https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine, [Hacker News](https://news.ycombinator.com/item?id=22595782), [Reddit](https://www.reddit.com/r/rust/comments/fjt4q3/rewriting_the_heart_of_our_sync_engine_in_rust/), [Lobsters](https://lobste.rs/s/ob6a8z/rewriting_heart_our_sync_engine)
 * 2020, Discord, Why Discord is switching from Go to Rust, Why Discord is switching from Go to Rust, https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f?gi=88a8991115c, https://news.ycombinator.com/item?id=22238335
 * 2018, PagerDuty, Elixir at PagerDuty, https://www.pagerduty.com/blog/elixir-at-pagerduty/, https://news.ycombinator.com/item?id=17313087
 * 2017, Stream, Why we switched from Python to Go, https://getstream.io/blog/switched-python-go/
